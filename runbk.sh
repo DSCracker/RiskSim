@@ -1,0 +1,1 @@
+nohup ./run&>log/run.log&
